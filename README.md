@@ -3,7 +3,7 @@
 <!--  -->
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## **Sobre mi**
 
 
 
@@ -11,6 +11,11 @@
 
 Soy un programador con experiencia en el desarrollo de aplicaciones web y móviles. Me destaco por mi capacidad para resolver problemas de manera eficiente. Poseo habilidades sólidas en JavaScript, y en framework como React. Disfruto trabajando en equipo para diseñar soluciones innovadoras que mejoren la experiencia del usuario y optimicen la eficiencia del software. Estoy constantemente buscando aprender y mejorar mis habilidades técnicas para mantenerme actualizado con las últimas tendencias en tecnología.
 
+Cursos realizados
+HTML CSS
+JAVASCRIPT
+REACT JS
+BACKEND
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
