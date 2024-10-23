@@ -9,13 +9,14 @@
 
 <br>
 
-Soy un programador con experiencia en el desarrollo de aplicaciones web y móviles. Me destaco por mi capacidad para resolver problemas de manera eficiente. Poseo habilidades sólidas en JavaScript, y en framework como React. Disfruto trabajando en equipo para diseñar soluciones innovadoras que mejoren la experiencia del usuario y optimicen la eficiencia del software. Estoy constantemente buscando aprender y mejorar mis habilidades técnicas para mantenerme actualizado con las últimas tendencias en tecnología.
+Soy un programador con experiencia en el desarrollo de aplicaciones web. Me destaco por mi capacidad para resolver problemas de manera eficiente. Poseo habilidades sólidas en JavaScript, framework como ReactJs, y programacion BackEnd. Disfruto trabajando en equipo para diseñar soluciones innovadoras que mejoren la experiencia del usuario y optimicen la eficiencia del software. Estoy constantemente buscando aprender y mejorar mis habilidades técnicas para mantenerme actualizado con las últimas tendencias en tecnología.
 
-Cursos realizados
-HTML CSS
-JAVASCRIPT
-REACT JS
-BACKEND
+**CURSOS REALIZADOS**
+* HTML CSS
+* JAVASCRIPT
+* REACT JS
+* PROGRAMACION BACKEND
+* PHYTON
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -33,13 +34,6 @@ BACKEND
 
 <br>   
     
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
 
 <br>
