@@ -1,88 +1,54 @@
+# ¡Hola! Soy Claudio Gómez 👋
 
-<h1 align="center"><b>Gomez Claudio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<br>
-	
-## **Sobre mi**
-
-
-
-<br>
-
-Soy un programador con experiencia en el desarrollo de aplicaciones web. Me destaco por mi capacidad para resolver problemas de manera eficiente. Poseo habilidades sólidas en JavaScript, framework como ReactJs, y programacion BackEnd. Disfruto trabajando en equipo para diseñar soluciones innovadoras que mejoren la experiencia del usuario y optimicen la eficiencia del software. Estoy constantemente buscando aprender y mejorar mis habilidades técnicas para mantenerme actualizado con las últimas tendencias en tecnología.
-
-**CURSOS REALIZADOS**
-* HTML CSS
-* JAVASCRIPT
-* REACT JS
-* PROGRAMACION BACKEND
-* PYTHON
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,css,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode&perline=12" />
-  </a>
-</p>
-<br>
-
-<br>   
-    
-</p>
-
-<br>
-<br>
-
-<br>
-<br>
-
-## <b>Conectemonos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/claudio-gomez-950a15242/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Gomez Claudio-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-
-<br>
-
-<li>
-<a href="mailto:claudiogomez23@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  gomez claudio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
+Desarrollador enfocado en el ecosistema **JavaScript & TypeScript**, especializado en crear aplicaciones web y móviles modernas con **React** y **React Native**. Me apasiona el código limpio, la arquitectura escalable y resolver problemas complejos mediante soluciones técnicas eficientes.
 
 ---
 
-<br>
+### 🚀 Sobre mí
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+- 💻 Desarrollando activamente aplicaciones web con **React / Vite** y apps móviles con **React Native / Expo**.
+- 🛠️ Manejo de estado y consumo de APIs con **Apollo Client (GraphQL)** y **REST APIs**.
+- 📚 En constante aprendizaje y perfeccionamiento en arquitecturas Full Stack y TypeScript avanzado.
+- 🎯 Buscando nuevos desafíos y oportunidades laborales en el sector IT.
 
-Last Edited on: 09/11/2022
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+#### **Frontend & Mobile**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+
+#### **Herramientas & Entorno**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gomezclaudio11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomezclaudio11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-gomez-950a15242/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gomezclaudio11)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiogomez23@gmail.com)
